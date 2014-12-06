@@ -1,0 +1,15 @@
+body {
+  background-image: url("http://www.secretsofthefed.com/wp-content/uploads/2013/04/The-Night-Sky-Wallpaper.jpg");
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+  background-color: red;
+}
+
+h1 {
+  color: white;
+  font-size: 100px;
+}
